@@ -1,5 +1,6 @@
 # DIO_OrangeTechInter_BackEnd
 <b>Orange Tech+ Back-End 2023</b>
+https://web.dio.me/track/orange-tech-backend
 
 O que falta para você se tornar um desenvolvedor Java e começar 2023 com uma formação completa? Inscreva-se já no Orange Tech+ Back-End e tenha mais de 80 horas para transformar sua carreira e conquistar as melhores vagas do mercado tech em 2023! Tenha acesso a módulos sobre a linguagem Java que vão desde o básico e introdução ao ambiente até códigos mais avançados e frameworks mais usados.
 
@@ -67,6 +68,8 @@ ATIVIDADES * MENTORIA * RANKING * FÓRUM * DEVS * CERTIFICADO
 * 05 - Curso: Se Preparando Para Uma Entrevista -  Básico ! 肋 1 hrs
 
 
+
+
 🤝 Contribuindo Este repositório foi criado para fins de estudo, então contribua com ele. Se te ajudei de alguma forma, ficarei feliz em saber. E caso você conheça alguém que se identifique com o conteúdo, não deixe de compatilhar! 
 
 - 👨‍💻 Todos os meus projetos estão disponíveis no meu github e na minha página de portfólio: [https://sammyfreitas.github.io/portfolioSite/](https://sammyfreitas.github.io/portfolioSite/) 
@@ -77,3 +80,5 @@ ATIVIDADES * MENTORIA * RANKING * FÓRUM * DEVS * CERTIFICADO
 Emai
 
 <br>Se possível:  ⭐️ Star o projeto
+
+<img src="https://hermes.digitalinnovation.one/certificates/cover/B66390A9.jpg">
